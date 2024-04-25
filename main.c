@@ -15,6 +15,7 @@ int main(void){
     else
         printf("false");
     int x;
+    int f;
     getchar();
     return 0;
 }
