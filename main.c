@@ -14,6 +14,8 @@ int main(void){
         printf("true");
     else
         printf("false");
+    int y;
+    int z;
     int x;
     int f;
     getchar();
